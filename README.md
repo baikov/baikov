@@ -1,6 +1,12 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baikov)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikov)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikov&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikov&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikov&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikov&theme=github&utcOffset=3)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baikov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikov)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **baikov/baikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,12 +73,5 @@ Here are some ideas to get you started:
 **Learning**
 
 ![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go) -->
-
-## About my Github:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikov&theme=github)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikov&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikov&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikov&theme=github&utcOffset=3)
 
 <!-- from https://github.com/Platane/snk -->
