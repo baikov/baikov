@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikov&theme=github)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikov&theme=github) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikov&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikov&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikov&theme=github&utcOffset=3)
 
 <!-- from https://github.com/Platane/snk -->
