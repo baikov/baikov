@@ -4,6 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikov&theme=github) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikov&theme=github) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikov&theme=github&utcOffset=3)
+![](https://github-readme-streak-stats.herokuapp.com?user=baikov&date_format=j%2Em%2EY&ring=E31E25&fire=E31E25&currStreakLabel=E31E25)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baikov)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikov)](https://github.com/anuraghazra/github-readme-stats) -->
