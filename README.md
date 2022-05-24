@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 ## About my Github:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikov&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikov&theme=github)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikov&theme=nord_bright) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baikov&theme=nord_bright) <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikov&theme=nord_bright) 
