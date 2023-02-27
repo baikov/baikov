@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 ![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go) -->
 
 <!-- from https://github.com/Platane/snk -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=baikov" /> 
-</p>
+</p> -->
