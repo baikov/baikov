@@ -72,5 +72,6 @@ Here are some ideas to get you started:
 ![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go) -->
 
 <!-- from https://github.com/Platane/snk -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=baikov&range=last_7_days&custom_title=Week%20stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=baikov&range=last_7_days&custom_title=Week%20stats" />
+https://github-readme-stats.vercel.app/api/wakatime?username=baikov&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact
 
